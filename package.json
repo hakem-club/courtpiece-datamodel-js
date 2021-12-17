@@ -1,0 +1,13 @@
+{
+  "name": "courtpiece-datamodel-js",
+  "version": "0.1.0",
+  "scripts": {
+    "tsc": "./node_modules/typescript/bin/tsc",
+    "build": "npm run tsc"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
